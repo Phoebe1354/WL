@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u256_div {
+#u240_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -31,7 +31,7 @@
   font-style:normal;
   color:#FF0000;
 }
-#u256 {
+#u240 {
   border-width:0px;
   position:absolute;
   left:45px;
@@ -43,7 +43,7 @@
   font-style:normal;
   color:#FF0000;
 }
-#u257 {
+#u241 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -51,7 +51,7 @@
   width:109px;
   white-space:nowrap;
 }
-#u258_img {
+#u242_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -59,7 +59,7 @@
   width:290px;
   height:608px;
 }
-#u258 {
+#u242 {
   border-width:0px;
   position:absolute;
   left:43px;
@@ -67,7 +67,7 @@
   width:290px;
   height:608px;
 }
-#u259 {
+#u243 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -76,7 +76,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u260_img {
+#u244_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -84,7 +84,7 @@
   width:285px;
   height:608px;
 }
-#u260 {
+#u244 {
   border-width:0px;
   position:absolute;
   left:375px;
@@ -92,7 +92,7 @@
   width:285px;
   height:608px;
 }
-#u261 {
+#u245 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -101,7 +101,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u262_div {
+#u246_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -120,7 +120,7 @@
   font-style:normal;
   color:#FF0000;
 }
-#u262 {
+#u246 {
   border-width:0px;
   position:absolute;
   left:375px;
@@ -132,7 +132,7 @@
   font-style:normal;
   color:#FF0000;
 }
-#u263 {
+#u247 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -140,7 +140,7 @@
   width:91px;
   white-space:nowrap;
 }
-#u264_div {
+#u248_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -158,7 +158,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u264 {
+#u248 {
   border-width:0px;
   position:absolute;
   left:360px;
@@ -166,7 +166,7 @@
   width:330px;
   height:110px;
 }
-#u265 {
+#u249 {
   border-width:0px;
   position:absolute;
   left:2px;
